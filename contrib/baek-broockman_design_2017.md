@@ -20,9 +20,9 @@ Field experiments with survey outcomes are often very expensive because few assi
 
 **(a)** "In this example, using all four practices we study would not be the most efficient option, nor would the traditional design in the literature" (p. 453). In the Liberia example, cheap treatment and costly online surveys reverse the ranking of designs. So a reviewer should ask for the inputs behind any omission.
 
-**(b)** "Subjects in each group who open the door and identify themselves before either regime begins are then used at the basic for comparison when estimating the CACE" (p. 445). This quote sets the timing of compliance for check (i).
+**(b)** "Subjects in each group who open the door and identify themselves before either regime begins are then used at the basis [sic] for comparison when estimating the CACE" (p. 445). This quote sets the timing of compliance for check (i).
 
-The authors adopt Nickerson's conditions: "(1) the treatment and placebo have identical compliance profiles; (2) the placebo does not affect the dependent variable; and (3) the same type of person drops out of the experiment for the two groups" (p. 446). Condition (1) supports (ii). Condition (2) supports (iv), and condition (3) supports (iii).
+The authors adopt Nickerson's conditions: "(1) the [treatment and placebo] have identical compliance profiles; (2) the placebo does not affect the dependent variable; and (3) the same type of person drops out of the experiment for the two groups" (p. 446). Condition (1) supports (ii). Condition (2) supports (iv), and condition (3) supports (iii).
 
 On balance checks, a baseline "helps one detect if compliers in each condition differ on baseline outcomes" (p. 449, n. 7). This supports the balance part of (ii).
 
